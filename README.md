@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @RicardoLepere
-- 👀 I’m interested in Learn phyton and analyst data
-- 🌱 I’m currently learning Phyton
-- 📫 How to reach me Ricardo Lepere
-- 😄 Pronouns: He/Him
-
-<!---
-RicardoLepere/RicardoLepere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Ricardo Lepere
+- 📊 Building toward Analytics Engineer — data, automation, BI
+- 🐍 Learning Python & SQL right now
+- 🛠️ Built Cobranza360: a Laravel commission-tracking system with OCR receipt processing
+- 💬 Reach me: LinkedIn (link abajo)
+- He/Him
